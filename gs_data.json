@@ -1,0 +1,787 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "indices",
+    "counts",
+    "publications"
+  ],
+  "scholar_id": "JoT3xu8AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Tianchi Huang",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JoT3xu8AAAAJ&citpid=2",
+  "affiliation": "Sony",
+  "interests": [
+    "Adaptive Video Streaming",
+    "Reinforcement Learning",
+    "AI for Networking"
+  ],
+  "email_domain": "@sony.com",
+  "citedby": 1379,
+  "citedby5y": 1253,
+  "hindex": 20,
+  "hindex5y": 19,
+  "i10index": 27,
+  "i10index5y": 27,
+  "cites_per_year": {
+    "2019": 20,
+    "2020": 102,
+    "2021": 113,
+    "2022": 198,
+    "2023": 226,
+    "2024": 319,
+    "2025": 276,
+    "2026": 120
+  },
+  "publications": {
+    "JoT3xu8AAAAJ:35N4QoGY0k4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "QARC: Video quality aware rate control for real-time video streaming based on deep reinforcement learning",
+        "pub_year": "2018"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:35N4QoGY0k4C",
+      "num_citations": 152,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=615216345563680656,7055709528937492396",
+      "cites_id": [
+        "615216345563680656",
+        "7055709528937492396"
+      ]
+    },
+    "JoT3xu8AAAAJ:RGFaLdJalmkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comyco: Quality-aware adaptive video streaming via imitation learning",
+        "pub_year": "2019"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:RGFaLdJalmkC",
+      "num_citations": 147,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16886706471959968999,8565670203631362156,13688501742644793921,5671651379938832013",
+      "cites_id": [
+        "16886706471959968999",
+        "8565670203631362156",
+        "13688501742644793921",
+        "5671651379938832013"
+      ]
+    },
+    "JoT3xu8AAAAJ:Tyk-4Ss8FVUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Towards faster and better federated learning: A feature fusion approach",
+        "pub_year": "2019"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 133,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8424424959781506305",
+      "cites_id": [
+        "8424424959781506305"
+      ]
+    },
+    "JoT3xu8AAAAJ:WF5omc3nYNoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Federated learning with unbiased gradient aggregation and controllable meta updating",
+        "pub_year": "2019"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:WF5omc3nYNoC",
+      "num_citations": 122,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6048241503171436372,9285679399921456638",
+      "cites_id": [
+        "6048241503171436372",
+        "9285679399921456638"
+      ]
+    },
+    "JoT3xu8AAAAJ:9ZlFYXVOiuMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Learning tailored adaptive bitrate algorithms to heterogeneous network conditions: A domain-specific priors and meta-reinforcement learning approach",
+        "pub_year": "2022"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 71,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18397666400389200740",
+      "cites_id": [
+        "18397666400389200740"
+      ]
+    },
+    "JoT3xu8AAAAJ:WbkHhVStYXYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Quality-aware neural adaptive video streaming with lifelong imitation learning",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:WbkHhVStYXYC",
+      "num_citations": 71,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5144603182412592315",
+      "cites_id": [
+        "5144603182412592315"
+      ]
+    },
+    "JoT3xu8AAAAJ:roLk4NBRz8UC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Stick: A harmonious fusion of buffer-based and learning-based approach for adaptive streaming",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:roLk4NBRz8UC",
+      "num_citations": 69,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1783735500109492567",
+      "cites_id": [
+        "1783735500109492567"
+      ]
+    },
+    "JoT3xu8AAAAJ:zYLM7Y9cAGgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Federated learning with additional mechanisms on clients to reduce communication costs",
+        "pub_year": "2019"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 59,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7010347649203495531",
+      "cites_id": [
+        "7010347649203495531"
+      ]
+    },
+    "JoT3xu8AAAAJ:J_g5lzvAfSwC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deep reinforced bitrate ladders for adaptive video streaming",
+        "pub_year": "2021"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:J_g5lzvAfSwC",
+      "num_citations": 40,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5026211882849248770",
+      "cites_id": [
+        "5026211882849248770"
+      ]
+    },
+    "JoT3xu8AAAAJ:maZDTaKrznsC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimizing adaptive video streaming with human feedback",
+        "pub_year": "2023"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:maZDTaKrznsC",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16503343164759888769,17727507939733597110",
+      "cites_id": [
+        "16503343164759888769",
+        "17727507939733597110"
+      ]
+    },
+    "JoT3xu8AAAAJ:Y0pCki6q_DkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Adversarial feature alignment: Avoid catastrophic forgetting in incremental task lifelong learning",
+        "pub_year": "2019"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:Y0pCki6q_DkC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10191279577934547542",
+      "cites_id": [
+        "10191279577934547542"
+      ]
+    },
+    "JoT3xu8AAAAJ:2osOgNQ5qMEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Tiyuntsong: A self-play reinforcement learning approach for ABR video streaming",
+        "pub_year": "2019"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12776383370501216055",
+      "cites_id": [
+        "12776383370501216055"
+      ]
+    },
+    "JoT3xu8AAAAJ:Wp0gIr-vW9MC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhancing the crowdsourced live streaming: a deep reinforcement learning approach",
+        "pub_year": "2019"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1294677258468250141",
+      "cites_id": [
+        "1294677258468250141"
+      ]
+    },
+    "JoT3xu8AAAAJ:g5m5HwL7SMYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Zwei: A self-play reinforcement learning framework for video transmission services",
+        "pub_year": "2021"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:g5m5HwL7SMYC",
+      "num_citations": 33,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17526248419680573143",
+      "cites_id": [
+        "17526248419680573143"
+      ]
+    },
+    "JoT3xu8AAAAJ:4JMBOYKVnBMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Buffer Awareness Neural Adaptive Video Streaming for Avoiding Extra Buffer Consumption",
+        "pub_year": "2023"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:4JMBOYKVnBMC",
+      "num_citations": 30,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17256693822585669390",
+      "cites_id": [
+        "17256693822585669390"
+      ]
+    },
+    "JoT3xu8AAAAJ:cFHS6HbyZ2cC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aggcast: Practical cost-effective scheduling for large-scale cloud-edge crowdsourced live streaming",
+        "pub_year": "2022"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 30,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17061867004294653769",
+      "cites_id": [
+        "17061867004294653769"
+      ]
+    },
+    "JoT3xu8AAAAJ:YsMSGLbcyi4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Livesmart: A qos-guaranteed cost-minimum framework of viewer scheduling for crowdsourced live streaming",
+        "pub_year": "2019"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8989227652391632084",
+      "cites_id": [
+        "8989227652391632084"
+      ]
+    },
+    "JoT3xu8AAAAJ:u9iWguZQMMsC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MSADM: Large Language Model (LLM) Assisted End-to-End Network Health Management Based on Multi-Scale Semanticization",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:u9iWguZQMMsC",
+      "num_citations": 25,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7804203831014429238,13705580702877459969",
+      "cites_id": [
+        "7804203831014429238",
+        "13705580702877459969"
+      ]
+    },
+    "JoT3xu8AAAAJ:u_35RYKgDlwC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Self-play reinforcement learning for video transmission",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:u_35RYKgDlwC",
+      "num_citations": 21,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=847590976168526118,2993096086010041453,10139411328541049632",
+      "cites_id": [
+        "847590976168526118",
+        "2993096086010041453",
+        "10139411328541049632"
+      ]
+    },
+    "JoT3xu8AAAAJ:hqOjcs7Dif8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deepmpc: A Mixture ABR Approach via Deep Learning And MPC",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1692154631192241152",
+      "cites_id": [
+        "1692154631192241152"
+      ]
+    },
+    "JoT3xu8AAAAJ:0EnyYjriUFMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Leveraging QoE Heterogenity for Large-Scale Livecast Scheduling",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:0EnyYjriUFMC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6432473370839436046",
+      "cites_id": [
+        "6432473370839436046"
+      ]
+    },
+    "JoT3xu8AAAAJ:pqnbT2bcN3wC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Reducing traffic wastage in video streaming via bandwidth-efficient bitrate adaptation",
+        "pub_year": "2024"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:pqnbT2bcN3wC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10516718290886445573",
+      "cites_id": [
+        "10516718290886445573"
+      ]
+    },
+    "JoT3xu8AAAAJ:YFjsv_pBGBYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Rdladder: Resolution-duration ladder for vbr-encoded videos via imitation learning",
+        "pub_year": "2023"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:YFjsv_pBGBYC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15343045158420097372",
+      "cites_id": [
+        "15343045158420097372"
+      ]
+    },
+    "JoT3xu8AAAAJ:4TOpqqG69KYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deadline and priority-aware congestion control for delay-sensitive multimedia streaming",
+        "pub_year": "2021"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:4TOpqqG69KYC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9707738879944729183",
+      "cites_id": [
+        "9707738879944729183"
+      ]
+    },
+    "JoT3xu8AAAAJ:hC7cP41nSMkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Learned internet congestion control for short video uploading",
+        "pub_year": "2022"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:hC7cP41nSMkC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15956431656985363026",
+      "cites_id": [
+        "15956431656985363026"
+      ]
+    },
+    "JoT3xu8AAAAJ:j3f4tGmQtD8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Practical Cloud-Edge Scheduling for Large-Scale Crowdsourced Live Streaming",
+        "pub_year": "2023"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:j3f4tGmQtD8C",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9828604717627332625",
+      "cites_id": [
+        "9828604717627332625"
+      ]
+    },
+    "JoT3xu8AAAAJ:NMxIlDl6LWMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Owl: A pre-and post-processing framework for video analytics in low-light surroundings",
+        "pub_year": "2023"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:NMxIlDl6LWMC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5780197751853027937",
+      "cites_id": [
+        "5780197751853027937"
+      ]
+    },
+    "JoT3xu8AAAAJ:qjMakFHDy7sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Delay-constrained rate control for real-time video streaming with bounded neural network",
+        "pub_year": "2018"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:qjMakFHDy7sC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16720417025467320778",
+      "cites_id": [
+        "16720417025467320778"
+      ]
+    },
+    "JoT3xu8AAAAJ:ZHo1McVdvXMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Adversarial Attacks on Federated-Learned Adaptive Bitrate Algorithms",
+        "pub_year": "2024"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:ZHo1McVdvXMC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4783071375587706433",
+      "cites_id": [
+        "4783071375587706433"
+      ]
+    },
+    "JoT3xu8AAAAJ:GnPB-g6toBAC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Concerto: Client-server orchestration for real-time video analytics",
+        "pub_year": "2023"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:GnPB-g6toBAC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2681910891830533781",
+      "cites_id": [
+        "2681910891830533781"
+      ]
+    },
+    "JoT3xu8AAAAJ:7PzlFSSx8tAC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Zixia: A reinforcement learning approach via adjusted ranking reward for internet congestion control",
+        "pub_year": "2022"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12821753672705967835",
+      "cites_id": [
+        "12821753672705967835"
+      ]
+    },
+    "JoT3xu8AAAAJ:D03iK_w7-QYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dancing with shackles, meet the challenge of industrial adaptive streaming via offline reinforcement learning",
+        "pub_year": "2024"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:D03iK_w7-QYC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13057426907728431096",
+      "cites_id": [
+        "13057426907728431096"
+      ]
+    },
+    "JoT3xu8AAAAJ:mVmsd5A6BfQC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A practical learning-based approach for viewer scheduling in the crowdsourced live streaming",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11190434450098598888",
+      "cites_id": [
+        "11190434450098598888"
+      ]
+    },
+    "JoT3xu8AAAAJ:1sJd4Hv_s6UC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Beyond interpretability: Exploring the comprehensibility of adaptive video streaming through large language models",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1430401069153112701",
+      "cites_id": [
+        "1430401069153112701"
+      ]
+    },
+    "JoT3xu8AAAAJ:3s1wT3WcHBgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Meet challenges of RTT jitter, a hybrid internet congestion control algorithm",
+        "pub_year": "2024"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:3s1wT3WcHBgC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2803244845107172699",
+      "cites_id": [
+        "2803244845107172699"
+      ]
+    },
+    "JoT3xu8AAAAJ:e5wmG9Sq2KIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Federated knowledge transfer for heterogeneous visual models",
+        "pub_year": "2022"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=271730527839363213",
+      "cites_id": [
+        "271730527839363213"
+      ]
+    },
+    "JoT3xu8AAAAJ:8k81kl-MbHgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A long-short-term fusion approach for video cache",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:8k81kl-MbHgC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16989836428040496437,5299361308960053151",
+      "cites_id": [
+        "16989836428040496437",
+        "5299361308960053151"
+      ]
+    },
+    "JoT3xu8AAAAJ:70eg2SAEIzsC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Generalizing rate control strategies for realtime video streaming via learning from deep learning",
+        "pub_year": "2019"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:70eg2SAEIzsC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17512612333755404571",
+      "cites_id": [
+        "17512612333755404571"
+      ]
+    },
+    "JoT3xu8AAAAJ:IjCSPb-OGe4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Being more effective and interpretable: Bridging the gap between heuristics and AI for ABR algorithms",
+        "pub_year": "2019"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17565983534238145744",
+      "cites_id": [
+        "17565983534238145744"
+      ]
+    },
+    "JoT3xu8AAAAJ:9yKSN-GCB0IC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Towards QoS-aware cloud live transcoding: a deep reinforcement learning approach",
+        "pub_year": "2019"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8515061987187514915",
+      "cites_id": [
+        "8515061987187514915"
+      ]
+    },
+    "JoT3xu8AAAAJ:CHSYGLWDkRkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enhanced Bandwidth Measurement and Robust Rate Adaptation for Low-latency Live Streaming",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:CHSYGLWDkRkC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5927373740310271766",
+      "cites_id": [
+        "5927373740310271766"
+      ]
+    },
+    "JoT3xu8AAAAJ:ns9cj8rnVeAC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comyco Video Description Dataset",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:ns9cj8rnVeAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12559955366815477432",
+      "cites_id": [
+        "12559955366815477432"
+      ]
+    },
+    "JoT3xu8AAAAJ:KxtntwgDAa4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "NeRFlow: Towards Adaptive Streaming for NeRF Videos",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:KxtntwgDAa4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3012789574495123284",
+      "cites_id": [
+        "3012789574495123284"
+      ]
+    },
+    "JoT3xu8AAAAJ:08ZZubdj9fEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pensieve-5G repository",
+        "pub_year": "2021"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:08ZZubdj9fEC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14201674402834432311",
+      "cites_id": [
+        "14201674402834432311"
+      ]
+    },
+    "JoT3xu8AAAAJ:K3LRdlH-MEoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Optimized bitrate ladders for adaptive video streaming with deep reinforcement learning",
+        "pub_year": "2020"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:K3LRdlH-MEoC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2984190123891488501",
+      "cites_id": [
+        "2984190123891488501"
+      ]
+    },
+    "JoT3xu8AAAAJ:uWQEDVKXjbEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Hivid: LLM-guided video saliency for content-aware VOD and live streaming",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:uWQEDVKXjbEC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15228117295629968107",
+      "cites_id": [
+        "15228117295629968107"
+      ]
+    },
+    "JoT3xu8AAAAJ:hMod-77fHWUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Who is the rising star? Demystifying the promising streamers in crowdsourced live streaming",
+        "pub_year": "2023"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:hMod-77fHWUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1693415782707035074",
+      "cites_id": [
+        "1693415782707035074"
+      ]
+    },
+    "JoT3xu8AAAAJ:dshw04ExmUIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Crucible: Quantifying the Potential of Control Algorithms through LLM Agents",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:dshw04ExmUIC",
+      "num_citations": 0
+    },
+    "JoT3xu8AAAAJ:SP6oXDckpogC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Towards Robust Low-Latency Live Streaming: Measurement, Prediction, and Rate Adaptation under Uncertainty",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:SP6oXDckpogC",
+      "num_citations": 0
+    },
+    "JoT3xu8AAAAJ:UxriW0iASnsC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Progressive Learning with Human Feedback for Personalized Adaptive Video Streaming",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "JoT3xu8AAAAJ:UxriW0iASnsC",
+      "num_citations": 0
+    }
+  },
+  "updated": "2026-06-21 08:16:57.522083"
+}
